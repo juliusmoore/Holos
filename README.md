@@ -1,3 +1,5 @@
+Note: Holos is a project I worked on before it was shared through GitHub
+
 [![fr-CA](https://img.shields.io/badge/lang-fr--CA-green.svg)](https://github.com/holos-aafc/Holos/blob/main/README.fr-CA.md)
 
 # Holos
